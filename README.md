@@ -20,8 +20,8 @@ An aspiring data engineer looking for a first job into the field.
 │   └── AWS
 │   
 └── interests/
-    ├── AI & Machine Learning
-    ├── Web Development
+    ├── Data modeling
+    ├── Emerging Technologies
     └── Open Source
 
 
@@ -29,6 +29,6 @@ An aspiring data engineer looking for a first job into the field.
 └─$ cat contact.txt
 
 📫 How to reach me:
-  └── Email: mailto:laurent.arnold97@gmail.com
-  └── LinkedIn: [linkedin.com/in/arnoldlaurent](https://www.linkedin.com/in/arnoldlaurent/)
+  └── Email: laurent.arnold97@gmail.com
+  └── LinkedIn: https://www.linkedin.com/in/arnoldlaurent/
 ```
