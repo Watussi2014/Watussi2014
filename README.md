@@ -20,9 +20,9 @@ An aspiring data engineer looking for a first job into the field.
 │   └── AWS
 │   
 └── interests/
-    ├── Data modeling
-    ├── Emerging Technologies
-    └── Open Source
+    ├── Football
+    ├── CrossFit
+    └── Jazz
 
 
 ┌──(laurentArnold@github)-[~/portfolio]
