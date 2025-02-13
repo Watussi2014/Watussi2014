@@ -31,4 +31,5 @@ An aspiring data engineer looking for a first job into the field.
 📫 How to reach me:
   └── Email: laurent.arnold97@gmail.com
   └── LinkedIn: https://www.linkedin.com/in/arnoldlaurent/
+  └── CLI: https://www.arnoldlaurent.dev/
 ```
