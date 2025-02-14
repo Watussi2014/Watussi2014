@@ -10,6 +10,8 @@ An aspiring data engineer looking for a first job into the field.
 │
 ├── languages/
 │   ├── Python
+│   ├── Scala
+│   ├── Shell scripting
 │   └── SQL
 │   
 ├── technologies/
@@ -22,7 +24,9 @@ An aspiring data engineer looking for a first job into the field.
 └── interests/
     ├── Football
     ├── CrossFit
-    └── Jazz
+    ├── Jazz
+    ├── Machine learning
+    └── Artificial Intelligence
 
 
 ┌──(laurentArnold@github)-[~/portfolio]
